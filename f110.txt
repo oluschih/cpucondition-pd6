@@ -18,6 +18,8 @@
 
 41-F110-10
 
+Mulan... Works fine, but the arrow keys are reversed. They've been switched around.
+
 41-F110-11
 
 41-F110-12
