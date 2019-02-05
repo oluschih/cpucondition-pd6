@@ -32,7 +32,7 @@ Mulan... Works fine, but the arrow keys are reversed. They've been switched arou
 
 41-F110-16
 
-41-F110-17 : Elischama J.S. - The CP is in well condition.
+41-F110-17
 
 41-F110-18
 
@@ -41,7 +41,7 @@ Mulan... Works fine, but the arrow keys are reversed. They've been switched arou
 41-F110-20
 
 41-F110-21
-Gabe Davenport, Good
+
 41-F110-22
 Lauren Illa
 Computer Condition: Fair, but the mouse is messed up
@@ -49,7 +49,8 @@ Computer Condition: Fair, but the mouse is messed up
 Pretty wack, I mean I expected more from you. Goutham Korada
 
 41-F110-24
-
+Chase Dixon
+Computer Condition: Pretty Ok, the size of MikeHawk
 41-F110-25
 
 41-F110-26
