@@ -18,7 +18,7 @@
 
 41-F110-10
 
-Mulan... Works fine, but the arrow keys are reversed. They work as they should, the symbols are just different.
+Mulan... Works fine, but the arrow keys are reversed. They've been switched around.
 
 41-F110-11
 
